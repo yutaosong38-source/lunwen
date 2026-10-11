@@ -1,0 +1,338 @@
+{
+  "sources": {
+    "main": "Uploaded Manuscript1.docx",
+    "supporting": "Uploaded Supporting Information.docx",
+    "reference": "Hassan doctoral thesis, April 2025; CoFeNiMnV reference system is different from author-confirmed Al\u2013Co\u2013Fe\u2013Ni\u2013Mn"
+  },
+  "supplementary_figures": [
+    {
+      "n": 1,
+      "name": "Figure_S01",
+      "key": "ref_xrd",
+      "caption": "XRD patterns of CoFeNiMnV/NCNTs prepared at 700, 800, 900 and 1000 \u00b0C. Reference characterization, not a new measurement of the PDMS composite.",
+      "source": "Hassan thesis, Figure 6-1a, printed p. 131, PDF p. 142.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S01.png"
+    },
+    {
+      "n": 2,
+      "name": "Figure_S02",
+      "key": "ref_raman",
+      "caption": "Raman spectra of the same reference series. The source reports I_D/I_G values of 1.18, 1.05, 0.96 and 0.94 for 700, 800, 900 and 1000 \u00b0C, respectively.",
+      "source": "Hassan thesis, Figure 6-1b, printed p. 131, PDF p. 142.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S02.png"
+    },
+    {
+      "n": 3,
+      "name": "Figure_S03",
+      "key": "tem_low",
+      "caption": "Reference CoFeNiMnV/NCNTs-800 nanocomposite. TEM overview with the original 50 nm scale bar. This is cited precursor characterization.",
+      "source": "Hassan thesis, Figure 6-3a, printed p. 133, PDF p. 144.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S03.png"
+    },
+    {
+      "n": 4,
+      "name": "Figure_S04",
+      "key": "tem_high",
+      "caption": "Reference CoFeNiMnV/NCNTs-800 nanocomposite. Higher-magnification TEM image with the original 10 nm scale bar. This is cited precursor characterization.",
+      "source": "Hassan thesis, Figure 6-3b, printed p. 133, PDF p. 144.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S04.png"
+    },
+    {
+      "n": 5,
+      "name": "Figure_S05",
+      "key": "hrtem",
+      "caption": "Reference CoFeNiMnV/NCNTs-800 nanocomposite. HRTEM image with source annotations of approximately 0.35 nm carbon-layer spacing and 0.22 nm alloy-lattice spacing. The original 5 nm inset scale bar is retained. This is cited precursor characterization.",
+      "source": "Hassan thesis, Figure 6-3c, printed p. 133, PDF p. 144.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S05.png"
+    },
+    {
+      "n": 6,
+      "name": "Figure_S06",
+      "key": "haadf",
+      "caption": "Reference CoFeNiMnV/NCNTs-800 nanocomposite. HAADF-STEM and elemental maps of Co, Fe, Ni, Mn, V and C. The original 50 nm HAADF scale bar is retained; no new scale is assigned to the individual maps. This is cited precursor characterization.",
+      "source": "Hassan thesis, Figure 6-3d, printed p. 133, PDF p. 144.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S06.png"
+    },
+    {
+      "n": 7,
+      "name": "Figure_S07",
+      "key": "xps_Survey",
+      "caption": "Reference Survey XPS spectrum of CoFeNiMnV/NCNTs-800. Original traces, fits and peak labels are retained; this spectrum is not assigned to the present PDMS foam.",
+      "source": "Hassan thesis, Figure 6-4a, printed p. 134, PDF p. 145.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S07.png"
+    },
+    {
+      "n": 8,
+      "name": "Figure_S08",
+      "key": "xps_Co_2p",
+      "caption": "Reference Co 2p XPS spectrum of CoFeNiMnV/NCNTs-800. Original traces, fits and peak labels are retained; this spectrum is not assigned to the present PDMS foam.",
+      "source": "Hassan thesis, Figure 6-4b, printed p. 134, PDF p. 145.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S08.png"
+    },
+    {
+      "n": 9,
+      "name": "Figure_S09",
+      "key": "xps_Fe_2p",
+      "caption": "Reference Fe 2p XPS spectrum of CoFeNiMnV/NCNTs-800. Original traces, fits and peak labels are retained; this spectrum is not assigned to the present PDMS foam.",
+      "source": "Hassan thesis, Figure 6-4c, printed p. 134, PDF p. 145.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S09.png"
+    },
+    {
+      "n": 10,
+      "name": "Figure_S10",
+      "key": "xps_Ni_2p",
+      "caption": "Reference Ni 2p XPS spectrum of CoFeNiMnV/NCNTs-800. Original traces, fits and peak labels are retained; this spectrum is not assigned to the present PDMS foam.",
+      "source": "Hassan thesis, Figure 6-4d, printed p. 134, PDF p. 145.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S10.png"
+    },
+    {
+      "n": 11,
+      "name": "Figure_S11",
+      "key": "xps_Mn_2p",
+      "caption": "Reference Mn 2p XPS spectrum of CoFeNiMnV/NCNTs-800. Original traces, fits and peak labels are retained; this spectrum is not assigned to the present PDMS foam.",
+      "source": "Hassan thesis, Figure 6-4e, printed p. 134, PDF p. 145.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S11.png"
+    },
+    {
+      "n": 12,
+      "name": "Figure_S12",
+      "key": "xps_V_2p",
+      "caption": "Reference V 2p XPS spectrum of CoFeNiMnV/NCNTs-800. Original traces, fits and peak labels are retained; this spectrum is not assigned to the present PDMS foam.",
+      "source": "Hassan thesis, Figure 6-4f, printed p. 134, PDF p. 145.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S12.png"
+    },
+    {
+      "n": 13,
+      "name": "Figure_S13",
+      "key": "xps_N_1s",
+      "caption": "Reference N 1s XPS spectrum of CoFeNiMnV/NCNTs-800. Original traces, fits and peak labels are retained; this spectrum is not assigned to the present PDMS foam.",
+      "source": "Hassan thesis, Figure 6-4g, printed p. 134, PDF p. 145.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S13.png"
+    },
+    {
+      "n": 14,
+      "name": "Figure_S14",
+      "key": "xps_C_1s",
+      "caption": "Reference C 1s XPS spectrum of CoFeNiMnV/NCNTs-800. Original traces, fits and peak labels are retained; this spectrum is not assigned to the present PDMS foam.",
+      "source": "Hassan thesis, Figure 6-4h, printed p. 134, PDF p. 145.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S14.png"
+    },
+    {
+      "n": 15,
+      "name": "Figure_S15",
+      "key": "xps_O_1s",
+      "caption": "Reference O 1s XPS spectrum of CoFeNiMnV/NCNTs-800. Original traces, fits and peak labels are retained; this spectrum is not assigned to the present PDMS foam.",
+      "source": "Hassan thesis, Figure 6-4i, printed p. 134, PDF p. 145.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S15.png"
+    },
+    {
+      "n": 16,
+      "name": "Figure_S16",
+      "key": "old_S1_a",
+      "caption": "Compressive stress-strain curves of PDMS and functionalized foams. The source labels 5% and 20% HEA@CNTs loading, defined by the author as the mass percentage of HEA@CNTs in HEA@CNTs plus unmodified CNTs.",
+      "source": "Original Supporting Information, S1 panel a.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S16.png"
+    },
+    {
+      "n": 17,
+      "name": "Figure_S17",
+      "key": "old_S1_b",
+      "caption": "Cyclic compressive stress-strain response including the trace labelled Cycle 1000. The abscissa must be confirmed from the original dataset.",
+      "source": "Original Supporting Information, S1 panel b.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S17.png"
+    },
+    {
+      "n": 18,
+      "name": "Figure_S18",
+      "key": "old_S2_a",
+      "caption": "Seebeck coefficients at foam thicknesses of 3, 4, 5 and 6 mm. Error bars are retained as supplied; their definition and number of replicates need confirmation.",
+      "source": "Original Supporting Information, S2 panel a.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S18.png"
+    },
+    {
+      "n": 19,
+      "name": "Figure_S19",
+      "key": "old_S3_a",
+      "caption": "Resistance response under a periodic pressure of 200 Pa. This demonstrates detection at 200 Pa and does not establish a statistical detection limit.",
+      "source": "Original Supporting Information, S3 panel a.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S19.png"
+    },
+    {
+      "n": 20,
+      "name": "Figure_S20",
+      "key": "old_S3_b",
+      "caption": "Transient loading and unloading response with source-labelled response and recovery times of approximately 200 and 110 ms. The response-time convention needs confirmation.",
+      "source": "Original Supporting Information, S3 panel b.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S20.png"
+    },
+    {
+      "n": 21,
+      "name": "Figure_S21",
+      "key": "old_S4_a",
+      "caption": "Pressure-response waveform near the beginning of the long-cycle test. Original cycle labels are retained; repeated tick labels require correction from the underlying data.",
+      "source": "Original Supporting Information, S4 panel a.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S21.png"
+    },
+    {
+      "n": 22,
+      "name": "Figure_S22",
+      "key": "old_S4_b",
+      "caption": "Pressure-response waveform around cycle 2500. Original cycle labels are retained; repeated tick labels require correction from the underlying data.",
+      "source": "Original Supporting Information, S4 panel b.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S22.png"
+    },
+    {
+      "n": 23,
+      "name": "Figure_S23",
+      "key": "old_S5_a",
+      "caption": "Real and imaginary permittivity at nominal compressive strains of 50% and 60%.",
+      "source": "Original Supporting Information, S5 panel a.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S23.png"
+    },
+    {
+      "n": 24,
+      "name": "Figure_S24",
+      "key": "old_S5_b",
+      "caption": "Representative real and imaginary permittivity. The specimen identity and compressive state need author confirmation.",
+      "source": "Original Supporting Information, S5 panel b.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S24.png"
+    },
+    {
+      "n": 25,
+      "name": "Figure_S25",
+      "key": "old_S5_c",
+      "caption": "Representative real and imaginary permeability from 2 to 18 GHz. The specimen identity and compressive state need author confirmation.",
+      "source": "Original Supporting Information, S5 panel c.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S25.png"
+    },
+    {
+      "n": 26,
+      "name": "Figure_S26",
+      "key": "old_S5_d",
+      "caption": "Magnitude of normalized input impedance for thicknesses labelled 1.55, 2.10, 2.35, 2.70, 3.25 and 4.00 mm. These curves compare thicknesses, not compressive strains.",
+      "source": "Original Supporting Information, S5 panel d.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S26.png"
+    },
+    {
+      "n": 27,
+      "name": "Figure_S27",
+      "key": "field_2",
+      "caption": "HFSS electric-field maps at 2 GHz with and without the absorbing layer. The original legends are retained. Their color-scale maxima differ, so color alone cannot quantify attenuation.",
+      "source": "Original Supporting Information Figure S6.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S27.png"
+    },
+    {
+      "n": 28,
+      "name": "Figure_S28",
+      "key": "field_6",
+      "caption": "HFSS electric-field maps at 6 GHz with and without the absorbing layer. The original legends are retained. Their color-scale maxima differ, so color alone cannot quantify attenuation.",
+      "source": "Original Supporting Information Figure S6.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S28.png"
+    },
+    {
+      "n": 29,
+      "name": "Figure_S29",
+      "key": "field_10",
+      "caption": "HFSS electric-field maps at 10 GHz with and without the absorbing layer. The original legends are retained. Their color-scale maxima differ, so color alone cannot quantify attenuation.",
+      "source": "Original Supporting Information Figure S6.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S29.png"
+    },
+    {
+      "n": 30,
+      "name": "Figure_S30",
+      "key": "field_14",
+      "caption": "HFSS electric-field maps at 14 GHz with and without the absorbing layer. The original legends are retained. Their color-scale maxima differ, so color alone cannot quantify attenuation.",
+      "source": "Original Supporting Information Figure S6.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S30.png"
+    },
+    {
+      "n": 31,
+      "name": "Figure_S31",
+      "key": "field_18",
+      "caption": "HFSS electric-field maps at 18 GHz with and without the absorbing layer. The original legends are retained. Their color-scale maxima differ, so color alone cannot quantify attenuation.",
+      "source": "Original Supporting Information Figure S6.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S31.png"
+    },
+    {
+      "n": 32,
+      "name": "Figure_S32",
+      "key": "loss_2",
+      "caption": "HFSS volumetric electromagnetic-loss-density map at 2 GHz. Original spatial field and legend are retained.",
+      "source": "Original Supporting Information Figure S7.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S32.png"
+    },
+    {
+      "n": 33,
+      "name": "Figure_S33",
+      "key": "loss_6",
+      "caption": "HFSS volumetric electromagnetic-loss-density map at 6 GHz. Original spatial field and legend are retained.",
+      "source": "Original Supporting Information Figure S7.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S33.png"
+    },
+    {
+      "n": 34,
+      "name": "Figure_S34",
+      "key": "loss_10",
+      "caption": "HFSS volumetric electromagnetic-loss-density map at 10 GHz. Original spatial field and legend are retained.",
+      "source": "Original Supporting Information Figure S7.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S34.png"
+    },
+    {
+      "n": 35,
+      "name": "Figure_S35",
+      "key": "loss_14",
+      "caption": "HFSS volumetric electromagnetic-loss-density map at 14 GHz. Original spatial field and legend are retained.",
+      "source": "Original Supporting Information Figure S7.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S35.png"
+    },
+    {
+      "n": 36,
+      "name": "Figure_S36",
+      "key": "loss_18",
+      "caption": "HFSS volumetric electromagnetic-loss-density map at 18 GHz. Original spatial field and legend are retained.",
+      "source": "Original Supporting Information Figure S7.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S36.png"
+    },
+    {
+      "n": 37,
+      "name": "Figure_S37",
+      "key": "line_2",
+      "caption": "HFSS line profile at 2 GHz. Original quantity, distance axis and trace are retained. The path coordinates and normalization need author confirmation.",
+      "source": "Original Supporting Information Figure S8.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S37.png"
+    },
+    {
+      "n": 38,
+      "name": "Figure_S38",
+      "key": "line_6",
+      "caption": "HFSS line profile at 6 GHz. Original quantity, distance axis and trace are retained. The path coordinates and normalization need author confirmation.",
+      "source": "Original Supporting Information Figure S8.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S38.png"
+    },
+    {
+      "n": 39,
+      "name": "Figure_S39",
+      "key": "line_10",
+      "caption": "HFSS line profile at 10 GHz. Original quantity, distance axis and trace are retained. The path coordinates and normalization need author confirmation.",
+      "source": "Original Supporting Information Figure S8.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S39.png"
+    },
+    {
+      "n": 40,
+      "name": "Figure_S40",
+      "key": "line_14",
+      "caption": "HFSS line profile at 14 GHz. Original quantity, distance axis and trace are retained. The path coordinates and normalization need author confirmation.",
+      "source": "Original Supporting Information Figure S8.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S40.png"
+    },
+    {
+      "n": 41,
+      "name": "Figure_S41",
+      "key": "line_18",
+      "caption": "HFSS line profile at 18 GHz. Original quantity, distance axis and trace are retained. The path coordinates and normalization need author confirmation.",
+      "source": "Original Supporting Information Figure S8.",
+      "png": "/workspace/output/article_revision/Figure_sources/Figure_S41.png"
+    }
+  ],
+  "limitation": "Embedded experimental traces remain source rasters. Transparent SVG outer backgrounds and editable labels do not create new raw data or native Origin projects."
+}
