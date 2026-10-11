@@ -1,0 +1,10 @@
+condition,true_class,predicted_Hot,predicted_Cold,predicted_Finger
+No_EMI,Hot,90,0,0
+No_EMI,Cold,0,90,0
+No_EMI,Finger,0,0,90
+EMI_no_absorber,Hot,90,0,0
+EMI_no_absorber,Cold,25,65,0
+EMI_no_absorber,Finger,22,0,68
+EMI_with_absorber,Hot,90,0,0
+EMI_with_absorber,Cold,0,90,0
+EMI_with_absorber,Finger,0,0,90

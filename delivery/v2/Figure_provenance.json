@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Figure_1",
+    "width": 1800,
+    "height": 1800,
+    "source": "Manuscript1, Figure 1",
+    "changes": "Aligned SEM images and EDS maps; calibrated EDS scale bars; matched Raman/XPS frames and type; no arbitrary y ticks or upper/right ticks."
+  },
+  {
+    "name": "Figure_2",
+    "width": 1800,
+    "height": 2280,
+    "source": "Manuscript1, Figure 2",
+    "changes": "Common chart-body sizes, rebuilt axes, uniform Arial labels; wide cross-response trace spans two columns; synchronized outputs remain stacked."
+  },
+  {
+    "name": "Figure_3",
+    "width": 1800,
+    "height": 1760,
+    "source": "Manuscript1, Figure 3a–k",
+    "changes": "Uniform quantitative axes and contour sizes; contour color bars preserve the source scale; original 3D surface retained."
+  },
+  {
+    "name": "Figure_4",
+    "width": 1800,
+    "height": 1850,
+    "source": "Manuscript1, Figure 4",
+    "changes": "Uniform heatmap grid and condition labels; original map pixels/colors and legends retained; confusion matrices reconstructed from printed counts, and accuracies computed from those counts."
+  },
+  {
+    "name": "Figure_S01",
+    "width": 1400,
+    "height": 1000,
+    "source": "Hassan thesis, Figure 6-1a, printed p. 131, PDF p. 142.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S02",
+    "width": 1400,
+    "height": 1000,
+    "source": "Hassan thesis, Figure 6-1b, printed p. 131, PDF p. 142.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S03",
+    "width": 1400,
+    "height": 1000,
+    "source": "Hassan thesis, Figure 6-3a, printed p. 133, PDF p. 144.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S04",
+    "width": 1400,
+    "height": 1000,
+    "source": "Hassan thesis, Figure 6-3b, printed p. 133, PDF p. 144.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S05",
+    "width": 1400,
+    "height": 1000,
+    "source": "Hassan thesis, Figure 6-3c, printed p. 133, PDF p. 144.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S06",
+    "width": 1400,
+    "height": 1000,
+    "source": "Hassan thesis, Figure 6-3d, printed p. 133, PDF p. 144.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S07",
+    "width": 1400,
+    "height": 1000,
+    "source": "Hassan thesis, Figure 6-4a, printed p. 134, PDF p. 145.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S08",
+    "width": 1400,
+    "height": 1000,
+    "source": "Hassan thesis, Figure 6-4b, printed p. 134, PDF p. 145.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S09",
+    "width": 1400,
+    "height": 1000,
+    "source": "Hassan thesis, Figure 6-4c, printed p. 134, PDF p. 145.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S10",
+    "width": 1400,
+    "height": 1000,
+    "source": "Hassan thesis, Figure 6-4d, printed p. 134, PDF p. 145.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S11",
+    "width": 1400,
+    "height": 1000,
+    "source": "Hassan thesis, Figure 6-4e, printed p. 134, PDF p. 145.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S12",
+    "width": 1400,
+    "height": 1000,
+    "source": "Hassan thesis, Figure 6-4f, printed p. 134, PDF p. 145.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S13",
+    "width": 1400,
+    "height": 1000,
+    "source": "Hassan thesis, Figure 6-4g, printed p. 134, PDF p. 145.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S14",
+    "width": 1400,
+    "height": 1000,
+    "source": "Hassan thesis, Figure 6-4h, printed p. 134, PDF p. 145.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S15",
+    "width": 1400,
+    "height": 1000,
+    "source": "Hassan thesis, Figure 6-4i, printed p. 134, PDF p. 145.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S16",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information, S1 panel a.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S17",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information, S1 panel b.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S18",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information, S2 panel a.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S19",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information, S3 panel a.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S20",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information, S3 panel b.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S21",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information, S4 panel a.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S22",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information, S4 panel b.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S23",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information, S5 panel a.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S24",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information, S5 panel b.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S25",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information, S5 panel c.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S26",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information, S5 panel d.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S27",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information Figure S6.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S28",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information Figure S6.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S29",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information Figure S6.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S30",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information Figure S6.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S31",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information Figure S6.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S32",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information Figure S7.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S33",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information Figure S7.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S34",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information Figure S7.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S35",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information Figure S7.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S36",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information Figure S7.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S37",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information Figure S8.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S38",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information Figure S8.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S39",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information Figure S8.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S40",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information Figure S8.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  },
+  {
+    "name": "Figure_S41",
+    "width": 1400,
+    "height": 1000,
+    "source": "Original Supporting Information Figure S8.",
+    "changes": "Independent figure; aligned academic layout; vector axes for quantitative charts; unaltered source traces and original fit annotations."
+  }
+]
