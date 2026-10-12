@@ -1,0 +1,467 @@
+{
+  "inputs": [
+    {
+      "filename": "1.0006.tiff",
+      "sha256": "35db6b7a08ccff58300624a664f031aece50f02f50b6c8bd7a51f201a40811ad"
+    },
+    {
+      "filename": "1.0007.tiff",
+      "sha256": "3354edbdfa9f77d88e5b2f16a26c6cc8ee21aacbc21f75b15e76285aa5dae33b"
+    },
+    {
+      "filename": "Project 1_Site 2_2026-09-30_00-29-00.docx",
+      "sha256": "cfb9e9516d6621fc3144314cbbd69c274752c38bc1f7e0fc31bff88bb2f61143"
+    }
+  ],
+  "image_sizes_px": {
+    "1.0006.tiff": [
+      768,
+      768
+    ],
+    "1.0007.tiff": [
+      768,
+      768
+    ]
+  },
+  "calibration": {
+    "1.0006.tiff": {
+      "embedded_bar_nm": 5,
+      "white_bar_columns_inclusive": [
+        48,
+        191
+      ],
+      "bar_width_pixels": 144,
+      "estimated_nm_per_pixel": 0.034722222222222224
+    },
+    "1.0007.tiff": {
+      "embedded_bar_nm": 50,
+      "white_bar_columns_inclusive": [
+        48,
+        222
+      ],
+      "bar_width_pixels": 175,
+      "estimated_nm_per_pixel": 0.2857142857142857
+    }
+  },
+  "calibration_limitation": "Derived from embedded raster scale bars, not independently verified instrument metadata. Pixel bar width has approximately one-pixel ambiguity.",
+  "fft_method": "Local planar background detrending, separable Hann window, 1024x1024 zero-padded FFT, strongest peak between 0.055 and 0.4 cycles/pixel. No image alteration.",
+  "lattice_measurements": [
+    {
+      "region": "particle_interior",
+      "box_xyxy": [
+        230,
+        210,
+        410,
+        390
+      ],
+      "frequency_x_cycles_per_pixel": 0.18359375,
+      "frequency_y_cycles_per_pixel": 0.03515625,
+      "period_pixels": 5.349611257965734,
+      "spacing_nm": 0.18575039090158796
+    },
+    {
+      "region": "particle_interior",
+      "box_xyxy": [
+        250,
+        220,
+        430,
+        400
+      ],
+      "frequency_x_cycles_per_pixel": 0.18359375,
+      "frequency_y_cycles_per_pixel": 0.03515625,
+      "period_pixels": 5.349611257965734,
+      "spacing_nm": 0.18575039090158796
+    },
+    {
+      "region": "particle_interior",
+      "box_xyxy": [
+        210,
+        190,
+        410,
+        390
+      ],
+      "frequency_x_cycles_per_pixel": 0.1826171875,
+      "frequency_y_cycles_per_pixel": 0.03515625,
+      "period_pixels": 5.377199081051311,
+      "spacing_nm": 0.18670830142539274
+    },
+    {
+      "region": "particle_interior",
+      "box_xyxy": [
+        260,
+        230,
+        400,
+        370
+      ],
+      "frequency_x_cycles_per_pixel": 0.18359375,
+      "frequency_y_cycles_per_pixel": 0.03515625,
+      "period_pixels": 5.349611257965734,
+      "spacing_nm": 0.18575039090158796
+    },
+    {
+      "region": "particle_interior",
+      "box_xyxy": [
+        230,
+        250,
+        410,
+        430
+      ],
+      "frequency_x_cycles_per_pixel": 0.18359375,
+      "frequency_y_cycles_per_pixel": 0.03515625,
+      "period_pixels": 5.349611257965734,
+      "spacing_nm": 0.18575039090158796
+    },
+    {
+      "region": "particle_interior",
+      "box_xyxy": [
+        190,
+        245,
+        370,
+        425
+      ],
+      "frequency_x_cycles_per_pixel": 0.1826171875,
+      "frequency_y_cycles_per_pixel": 0.03515625,
+      "period_pixels": 5.377199081051311,
+      "spacing_nm": 0.18670830142539274
+    },
+    {
+      "region": "particle_interior",
+      "box_xyxy": [
+        255,
+        230,
+        385,
+        365
+      ],
+      "frequency_x_cycles_per_pixel": 0.18359375,
+      "frequency_y_cycles_per_pixel": 0.03515625,
+      "period_pixels": 5.349611257965734,
+      "spacing_nm": 0.18575039090158796
+    },
+    {
+      "region": "outer_layered_region",
+      "box_xyxy": [
+        235,
+        450,
+        385,
+        540
+      ],
+      "frequency_x_cycles_per_pixel": 0.0126953125,
+      "frequency_y_cycles_per_pixel": -0.099609375,
+      "period_pixels": 9.958658514569995,
+      "spacing_nm": 0.34578675397812486
+    },
+    {
+      "region": "outer_layered_region",
+      "box_xyxy": [
+        285,
+        440,
+        425,
+        540
+      ],
+      "frequency_x_cycles_per_pixel": 0.017578125,
+      "frequency_y_cycles_per_pixel": 0.099609375,
+      "period_pixels": 9.886454551270267,
+      "spacing_nm": 0.3432796719191065
+    },
+    {
+      "region": "outer_layered_region",
+      "box_xyxy": [
+        310,
+        460,
+        420,
+        550
+      ],
+      "frequency_x_cycles_per_pixel": 0.013671875,
+      "frequency_y_cycles_per_pixel": 0.1005859375,
+      "period_pixels": 9.851164495887515,
+      "spacing_nm": 0.34205432277387204
+    },
+    {
+      "region": "outer_layered_region",
+      "box_xyxy": [
+        230,
+        440,
+        370,
+        540
+      ],
+      "frequency_x_cycles_per_pixel": 0.0126953125,
+      "frequency_y_cycles_per_pixel": -0.1005859375,
+      "period_pixels": 9.863495868683218,
+      "spacing_nm": 0.3424824954403895
+    },
+    {
+      "region": "outer_layered_region",
+      "box_xyxy": [
+        235,
+        445,
+        405,
+        545
+      ],
+      "frequency_x_cycles_per_pixel": 0.01171875,
+      "frequency_y_cycles_per_pixel": -0.099609375,
+      "period_pixels": 9.970453125751227,
+      "spacing_nm": 0.3461962890885843
+    }
+  ],
+  "phase_indexing": "No Miller indices or phase identity assigned from the illustrative reference images.",
+  "mapping": [
+    {
+      "element": "Ni",
+      "source": "/media/image5.png",
+      "embedded_size_px": [
+        283,
+        254
+      ],
+      "field_bounds_xyxy": [
+        40,
+        26,
+        243,
+        228
+      ],
+      "field_size_px": [
+        203,
+        202
+      ],
+      "nonblack_pixel_count": 15955,
+      "nonblack_area_percent": 38.90894015509925,
+      "intensity_above_128_area_percent": 12.081158854801737,
+      "reported_weight_percent": 57.97,
+      "nm_per_pixel": null
+    },
+    {
+      "element": "Co",
+      "source": "/media/image6.png",
+      "embedded_size_px": [
+        283,
+        254
+      ],
+      "field_bounds_xyxy": [
+        40,
+        26,
+        243,
+        228
+      ],
+      "field_size_px": [
+        203,
+        202
+      ],
+      "nonblack_pixel_count": 15553,
+      "nonblack_area_percent": 37.92859581524655,
+      "intensity_above_128_area_percent": 9.374237916402478,
+      "reported_weight_percent": 35.27,
+      "nm_per_pixel": null
+    },
+    {
+      "element": "Fe",
+      "source": "/media/image7.png",
+      "embedded_size_px": [
+        283,
+        254
+      ],
+      "field_bounds_xyxy": [
+        40,
+        26,
+        243,
+        228
+      ],
+      "field_size_px": [
+        203,
+        202
+      ],
+      "nonblack_pixel_count": 13591,
+      "nonblack_area_percent": 33.143930156562455,
+      "intensity_above_128_area_percent": 4.2164561283714574,
+      "reported_weight_percent": 4.14,
+      "nm_per_pixel": null
+    },
+    {
+      "element": "Cu",
+      "source": "/media/image8.png",
+      "embedded_size_px": [
+        283,
+        254
+      ],
+      "field_bounds_xyxy": [
+        40,
+        26,
+        243,
+        228
+      ],
+      "field_size_px": [
+        203,
+        202
+      ],
+      "nonblack_pixel_count": 4352,
+      "nonblack_area_percent": 10.613081012534751,
+      "intensity_above_128_area_percent": 0.5413841876798517,
+      "reported_weight_percent": 2.02,
+      "nm_per_pixel": null
+    },
+    {
+      "element": "Al",
+      "source": "/media/image9.png",
+      "embedded_size_px": [
+        283,
+        254
+      ],
+      "field_bounds_xyxy": [
+        40,
+        26,
+        243,
+        228
+      ],
+      "field_size_px": [
+        203,
+        202
+      ],
+      "nonblack_pixel_count": 3579,
+      "nonblack_area_percent": 8.727991025703556,
+      "intensity_above_128_area_percent": 1.3924791493927717,
+      "reported_weight_percent": 0.61,
+      "nm_per_pixel": null
+    }
+  ],
+  "mapping_limitations": [
+    "No map scale or instrument pixel calibration provided.",
+    "The grayscale image is called Electron image until acquisition mode is confirmed; HAADF is not assumed.",
+    "Cu specimen-versus-support origin needs author confirmation.",
+    "No Mn map supplied. imagea.png is an exact duplicate of the Al map, not an extra element.",
+    "Nonblack area is a raster-display statistic, not an elemental count or quantitative abundance.",
+    "No adding, moving, duplicating or randomizing elemental signals is permissible for an experimental figure."
+  ],
+  "rendering": {
+    "TEM_composite_pixels": [
+      2448,
+      824
+    ],
+    "mapping_composite_pixels": [
+      2448,
+      1756
+    ],
+    "dpi_metadata": 300,
+    "gamma": 0.65,
+    "mapping_recoloring": "Display hues changed to match the requested figure style; original-color comparison supplied.",
+    "spatial_changes": "Cropping and declared display magnification only; no generated details, smoothing, filling, background removal, point duplication or randomization.",
+    "TEM_panel_b": "Crop of panel a, xyxy=(335,500,575,740) in original 768px image; 10 nm scale recalculated.",
+    "TEM_panel_c": "A separate uploaded HRTEM field; not claimed as the same particle as panels a/b. Inset is a crop of c, not new measurement.",
+    "annotations": "Distances are approximate local Fourier estimates rounded to 0.19 and 0.34 nm; no phase/Miller-index assignment.",
+    "SVG": "Movable embedded image panels only; raster annotations and micrographs are not converted to vector measurements."
+  },
+  "mapping_checks": [
+    {
+      "element": "Fe",
+      "source_report_image": "image7.png",
+      "source_crop_xyxy": [
+        40,
+        26,
+        243,
+        229
+      ],
+      "source_pixels": [
+        203,
+        203
+      ],
+      "nonzero_pixels_before": 13591,
+      "nonzero_pixels_after": 13591,
+      "exact_source_signal_support_preserved": true,
+      "shared_gamma": 0.65,
+      "rgb_color": [
+        255,
+        230,
+        0
+      ]
+    },
+    {
+      "element": "Co",
+      "source_report_image": "image6.png",
+      "source_crop_xyxy": [
+        40,
+        26,
+        243,
+        229
+      ],
+      "source_pixels": [
+        203,
+        203
+      ],
+      "nonzero_pixels_before": 15553,
+      "nonzero_pixels_after": 15553,
+      "exact_source_signal_support_preserved": true,
+      "shared_gamma": 0.65,
+      "rgb_color": [
+        0,
+        220,
+        230
+      ]
+    },
+    {
+      "element": "Ni",
+      "source_report_image": "image5.png",
+      "source_crop_xyxy": [
+        40,
+        26,
+        243,
+        229
+      ],
+      "source_pixels": [
+        203,
+        203
+      ],
+      "nonzero_pixels_before": 15955,
+      "nonzero_pixels_after": 15955,
+      "exact_source_signal_support_preserved": true,
+      "shared_gamma": 0.65,
+      "rgb_color": [
+        220,
+        0,
+        220
+      ]
+    },
+    {
+      "element": "Cu",
+      "source_report_image": "image8.png",
+      "source_crop_xyxy": [
+        40,
+        26,
+        243,
+        229
+      ],
+      "source_pixels": [
+        203,
+        203
+      ],
+      "nonzero_pixels_before": 4352,
+      "nonzero_pixels_after": 4352,
+      "exact_source_signal_support_preserved": true,
+      "shared_gamma": 0.65,
+      "rgb_color": [
+        0,
+        230,
+        60
+      ]
+    },
+    {
+      "element": "Al",
+      "source_report_image": "image9.png",
+      "source_crop_xyxy": [
+        40,
+        26,
+        243,
+        229
+      ],
+      "source_pixels": [
+        203,
+        203
+      ],
+      "nonzero_pixels_before": 3579,
+      "nonzero_pixels_after": 3579,
+      "exact_source_signal_support_preserved": true,
+      "shared_gamma": 0.65,
+      "rgb_color": [
+        235,
+        30,
+        30
+      ]
+    }
+  ]
+}
