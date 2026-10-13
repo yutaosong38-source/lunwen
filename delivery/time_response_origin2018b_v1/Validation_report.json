@@ -1,0 +1,14 @@
+{
+  "image_estimated_points": 74,
+  "interpolated_points": 878,
+  "segments": 8,
+  "unassigned_baseline_pressure": true,
+  "random_noise_added": false,
+  "source_image_preserved": true,
+  "saved_XLSX_numeric_and_formula_checks": "passed",
+  "CSV_missing_values_preserved": true,
+  "Origin_script_embedded_numeric_checks": "passed",
+  "Origin_script_native_execution": "NOT TESTED: Origin 2018b is not available in the Linux cloud environment",
+  "script_encoding": "ASCII / CRLF",
+  "script_main": "Image-estimated vertices; Interpolated is optional"
+}
