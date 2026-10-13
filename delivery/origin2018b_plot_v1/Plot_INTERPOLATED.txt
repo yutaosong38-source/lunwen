@@ -1,0 +1,116 @@
+// Origin 2018b LabTalk: self-contained I-V plot.
+// Data: IMAGE-DERIVED INTERPOLATION. These are NOT newly measured points.
+// A is X (Voltage in V); B-F are Y (Current in mA).
+// Run in a new or existing project. Only new workbook/graph windows are created.
+newbook;
+wks.nCols = 6;
+wks.nRows = 21;
+wks.col1.type = 4;
+wks.col2.type = 1;
+wks.col3.type = 1;
+wks.col4.type = 1;
+wks.col5.type = 1;
+wks.col6.type = 1;
+page.longname$ = "IV INTERPOLATED IMAGE ESTIMATES";
+col(A)[L]$ = "Voltage";
+col(A)[U]$ = "V";
+col(B)[L]$ = "0 kPa";
+col(B)[U]$ = "mA";
+col(C)[L]$ = "20 kPa";
+col(C)[U]$ = "mA";
+col(D)[L]$ = "40 kPa";
+col(D)[U]$ = "mA";
+col(E)[L]$ = "50 kPa";
+col(E)[U]$ = "mA";
+col(F)[L]$ = "60 kPa";
+col(F)[U]$ = "mA";
+col(A) = {-2,-1.8,-1.6,-1.4,-1.2,-1,-0.8,-0.6,-0.4,-0.2,0,0.2,0.4,0.6,0.8,1,1.2,1.4,1.6,1.8,2};
+col(B) = {-0.48,-0.432,-0.384,-0.334,-0.282,-0.23,-0.174,-0.118,-0.072,-0.036,0,0.04,0.08,0.13,0.19,0.25,0.294,0.338,0.386,0.438,0.49};
+col(C) = {-0.71,-0.642,-0.574,-0.504,-0.432,-0.36,-0.28,-0.2,-0.128,-0.064,0,0.076,0.152,0.228,0.304,0.38,0.456,0.532,0.606,0.678,0.75};
+col(D) = {-1.2,-1.076,-0.952,-0.832,-0.716,-0.6,-0.468,-0.336,-0.216,-0.108,0,0.152,0.304,0.45,0.59,0.73,0.87,1.01,1.146,1.278,1.41};
+col(E) = {-1.47,-1.326,-1.182,-1.034,-0.882,-0.73,-0.578,-0.426,-0.28,-0.14,0,0.12,0.24,0.364,0.492,0.62,0.74,0.86,0.978,1.094,1.21};
+col(F) = {-1.77,-1.59,-1.41,-1.232,-1.056,-0.88,-0.7,-0.52,-0.344,-0.172,0,0.18,0.36,0.538,0.714,0.89,1.07,1.25,1.426,1.598,1.77};
+col(A)[C]$ = "Image-estimated points resampled by piecewise-linear interpolation at 0.2 V.";
+col(B)[C]$ = "Image-estimated points resampled by piecewise-linear interpolation at 0.2 V.";
+col(C)[C]$ = "Image-estimated points resampled by piecewise-linear interpolation at 0.2 V.";
+col(D)[C]$ = "Image-estimated points resampled by piecewise-linear interpolation at 0.2 V.";
+col(E)[C]$ = "Image-estimated points resampled by piecewise-linear interpolation at 0.2 V.";
+col(F)[C]$ = "Image-estimated points resampled by piecewise-linear interpolation at 0.2 V.";
+// 202 is the classic Line+Symbol plot type.
+plotxy iy:=(1,2:6) plot:=202 ogl:=<new>;
+layer -gu;
+page.longname$ = "IV INTERPOLATED DATA - Arial 28";
+// Colors, shapes and filled symbols: circle / square / triangle / diamond / star.
+layer -s 1;
+iv28_color = color(70,70,70);
+set %C -c $(iv28_color);
+set %C -k 2;
+set %C -z 9;
+layer.plot1.symbol.interior = 1;
+layer -s 2;
+iv28_color = color(0,34,170);
+set %C -c $(iv28_color);
+set %C -k 1;
+set %C -z 9;
+layer.plot2.symbol.interior = 1;
+layer -s 3;
+iv28_color = color(19,131,38);
+set %C -c $(iv28_color);
+set %C -k 3;
+set %C -z 9;
+layer.plot3.symbol.interior = 1;
+layer -s 4;
+iv28_color = color(200,33,33);
+set %C -c $(iv28_color);
+set %C -k 5;
+set %C -z 9;
+layer.plot4.symbol.interior = 1;
+layer -s 5;
+iv28_color = color(105,39,133);
+set %C -c $(iv28_color);
+set %C -k 8;
+set %C -z 9;
+layer.plot5.symbol.interior = 1;
+// Fixed linear axes. Data remain -2 to +2 V; small horizontal margin is added.
+layer.x.type = 1;
+layer.y.type = 1;
+layer.x.from = -2.2;
+layer.x.to = 2.2;
+layer.x.inc = 1;
+layer.y.from = -2;
+layer.y.to = 2;
+layer.y.inc = 1;
+// Axis titles and all principal labels: Arial, 28 points.
+iv28_font = font("Arial");
+label -xb "Voltage (V)";
+label -yl "Current (mA)";
+xb.font = iv28_font;
+yl.font = iv28_font;
+xb.fsize = 28;
+yl.fsize = 28;
+layer.x.label.font = iv28_font;
+layer.y.label.font = iv28_font;
+layer.x.label.pt = 28;
+layer.y.label.pt = 28;
+// Margins leave room for 28-point axis titles and the provenance notice.
+layer.left = 20;
+layer.top = 18;
+layer.width = 72;
+layer.height = 68;
+// Legend is written explicitly so pressure names do not depend on a template.
+legend.text$ = "\l(1) 0 kPa\n\l(2) 20 kPa\n\l(3) 40 kPa\n\l(4) 50 kPa\n\l(5) 60 kPa";
+legend.font = iv28_font;
+legend.fsize = 28;
+legend.attach = 2;
+legend.x1 = -2.02;
+legend.y1 = 1.86;
+// Persistent provenance label: do not relabel interpolation/simulation as measurements.
+label -n IVDataNote "INTERPOLATED DATA";
+IVDataNote.font = iv28_font;
+IVDataNote.fsize = 28;
+IVDataNote.attach = 2;
+IVDataNote.x1 = -2.02;
+IVDataNote.y1 = 2.36;
+IVDataNote.color = 1;
+type "Created five I-V curves. Data type: IMAGE-DERIVED INTERPOLATION.";
+type "X: Voltage (V); Y: Current (mA); Arial 28 pt.";

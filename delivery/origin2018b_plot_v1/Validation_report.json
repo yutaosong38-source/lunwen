@@ -1,0 +1,20 @@
+{
+  "target": "Origin 2018b (LabTalk)",
+  "data_points_per_curve": 21,
+  "curve_count": 5,
+  "requested_fonts": {
+    "family": "Arial",
+    "size_points": 28
+  },
+  "source_table": "Image-derived I-V tables, not instrument raw measurements",
+  "embedded_values_match_previously_delivered_CSV": true,
+  "simulation_clearly_labeled": true,
+  "native_Origin_execution": "NOT TESTED: Origin is not installed in this Linux cloud environment",
+  "verification_scope": "Static section, data-array, axis-title, style-setting and package checks only",
+  "script_encoding": "ASCII with CRLF, no BOM",
+  "scripts": {
+    "IV_Origin2018b.ogs": "0c20739291624d01755ff6591c9e54a62fe26585bb629b581559b530de3818ba",
+    "Plot_INTERPOLATED.txt": "64f0db0a3acdfe51b5445703d3294043983eb9e8c6d42500102e59204b1f9ce6",
+    "Plot_SIMULATED_NOT_MEASURED.txt": "e0d27f3bad078dda5608b0311cee876aa5ddb7c91a0ce98224c7aa49e57087be"
+  }
+}
