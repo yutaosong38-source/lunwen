@@ -1,0 +1,370 @@
+[
+  {
+    "number": 1,
+    "key": "ray",
+    "entry": "[1] T. R. Ray, J. Choi, A. J. Bandodkar, et al. Bio-Integrated Wearable Systems: A Comprehensive Review. Chemical Reviews 119 (2019) 5461–5533.",
+    "type": "journal article",
+    "bibliographic_basis": "Existing manuscript bibliography",
+    "online_verified": false
+  },
+  {
+    "number": 2,
+    "key": "liu_skin",
+    "entry": "[2] Y. Liu, M. Pharr, G. A. Salvatore. Lab-on-Skin: A Review of Flexible and Stretchable Electronics for Wearable Health Monitoring. ACS Nano 11 (2017) 9614–9635.",
+    "type": "journal article",
+    "bibliographic_basis": "Existing manuscript bibliography",
+    "online_verified": false
+  },
+  {
+    "number": 3,
+    "key": "libanori",
+    "entry": "[3] A. Libanori, G. Chen, X. Zhao, Y. Zhou, J. Chen. Smart textiles for personalized healthcare. Nature Electronics 5 (2022) 142–156.",
+    "type": "journal article",
+    "bibliographic_basis": "Existing manuscript bibliography",
+    "online_verified": false
+  },
+  {
+    "number": 4,
+    "key": "rogers",
+    "entry": "[4] J. A. Rogers, T. Someya, Y. Huang. Materials and mechanics for stretchable electronics. Science 327 (2010) 1603–1607.",
+    "type": "journal article",
+    "bibliographic_basis": "Established bibliographic record; not online verified",
+    "online_verified": false
+  },
+  {
+    "number": 5,
+    "key": "chortos",
+    "entry": "[5] A. Chortos, J. Liu, Z. Bao. Pursuing prosthetic electronic skin. Nature Materials 15 (2016) 937–950.",
+    "type": "journal article",
+    "bibliographic_basis": "Established bibliographic record; not online verified",
+    "online_verified": false
+  },
+  {
+    "number": 6,
+    "key": "mannsfeld",
+    "entry": "[6] S. C. B. Mannsfeld, B. C.-K. Tee, R. M. Stoltenberg, et al. Highly sensitive flexible pressure sensors with microstructured rubber dielectric layers. Nature Materials 9 (2010) 859–864.",
+    "type": "journal article",
+    "bibliographic_basis": "Established bibliographic record; not online verified",
+    "online_verified": false
+  },
+  {
+    "number": 7,
+    "key": "gui",
+    "entry": "[7] X. Gui, J. Wei, K. Wang, et al. Carbon nanotube sponges. Advanced Materials 22 (2010) 617–621.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [192]",
+    "online_verified": false
+  },
+  {
+    "number": 8,
+    "key": "zhang_dual",
+    "entry": "[8] F. Zhang, Y. Zang, D. Huang, C.-A. Di, D. Zhu. Flexible and self-powered temperature–pressure dual-parameter sensors using microstructure-frame-supported organic thermoelectric materials. Nature Communications 6 (2015) 8356.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied supplementary bibliography [6]; title from established bibliographic record, not online verified",
+    "online_verified": false
+  },
+  {
+    "number": 9,
+    "key": "bubnova",
+    "entry": "[9] O. Bubnova, Z. U. Khan, A. Malti, et al. Optimization of the thermoelectric figure of merit in the conducting polymer poly(3,4-ethylenedioxythiophene). Nature Materials 10 (2011) 429–433.",
+    "type": "journal article",
+    "bibliographic_basis": "Established bibliographic record; not online verified",
+    "online_verified": false
+  },
+  {
+    "number": 10,
+    "key": "kolanowska",
+    "entry": "[10] A. Kolanowska, D. Janas, A. P. Herman, et al. From blackness to invisibility—Carbon nanotubes role in the attenuation of and shielding from radio waves for stealth technology. Carbon 126 (2018) 31–52.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [193]",
+    "online_verified": false
+  },
+  {
+    "number": 11,
+    "key": "bao",
+    "entry": "[11] S. Bao, M. Zhang, Z. Jiang, et al. Advances in microwave absorbing materials with broad-bandwidth response. Nano Research 16 (2023) 11054–11083.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [10]",
+    "online_verified": false
+  },
+  {
+    "number": 12,
+    "key": "olmedo",
+    "entry": "[12] L. Olmedo, P. Hourquebie, F. Jousse. Microwave absorbing materials based on conducting polymers. Advanced Materials 5 (1993) 373–377.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [18]",
+    "online_verified": false
+  },
+  {
+    "number": 13,
+    "key": "liang",
+    "entry": "[13] L. Liang, W. Gu, Y. Wu, et al. Heterointerface engineering in electromagnetic absorbers: new insights and opportunities. Advanced Materials 34 (2022) 2106195.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [4]",
+    "online_verified": false
+  },
+  {
+    "number": 14,
+    "key": "pang",
+    "entry": "[14] H. Pang, Y. Duan, L. Huang, et al. Research advances in composition, structure and mechanisms of microwave absorbing materials. Composites Part B: Engineering 224 (2021) 109173.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [17]",
+    "online_verified": false
+  },
+  {
+    "number": 15,
+    "key": "che",
+    "entry": "[15] R. C. Che, L. M. Peng, X. F. Duan, et al. Microwave absorption enhancement and complex permittivity and permeability of Fe encapsulated within carbon nanotubes. Advanced Materials 16 (2004) 401–405.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [1]",
+    "online_verified": false
+  },
+  {
+    "number": 16,
+    "key": "wu",
+    "entry": "[16] Z. Wu, H. W. Cheng, C. Jin, et al. Dimensional design and core–shell engineering of nanomaterials for electromagnetic wave absorption. Advanced Materials 34 (2022) 2107538.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [3]",
+    "online_verified": false
+  },
+  {
+    "number": 17,
+    "key": "cheng_interfaces",
+    "entry": "[17] J. Cheng, H. Zhang, Y. Xiong, et al. Construction of multiple interfaces and dielectric/magnetic heterostructures in electromagnetic wave absorbers with enhanced absorption performance: a review. Journal of Materiomics 7 (2021) 1233–1263.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [5]",
+    "online_verified": false
+  },
+  {
+    "number": 18,
+    "key": "yeh",
+    "entry": "[18] J.-W. Yeh, S.-K. Chen, S.-J. Lin, et al. Nanostructured high-entropy alloys with multiple principal elements: novel alloy design concepts and outcomes. Advanced Engineering Materials 6 (2004) 299–303.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [46]",
+    "online_verified": false
+  },
+  {
+    "number": 19,
+    "key": "cantor",
+    "entry": "[19] B. Cantor, I. T. H. Chang, P. Knight, A. J. B. Vincent. Microstructural development in equiatomic multicomponent alloys. Materials Science and Engineering: A 375–377 (2004) 213–218.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [47]; combined volume from established bibliographic record",
+    "online_verified": false
+  },
+  {
+    "number": 20,
+    "key": "miracle",
+    "entry": "[20] D. B. Miracle, O. N. Senkov. A critical review of high entropy alloys and related concepts. Acta Materialia 122 (2017) 448–511.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [56]",
+    "online_verified": false
+  },
+  {
+    "number": 21,
+    "key": "george",
+    "entry": "[21] E. P. George, D. Raabe, R. O. Ritchie. High-entropy alloys. Nature Reviews Materials 4 (2019) 515–534.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [74]",
+    "online_verified": false
+  },
+  {
+    "number": 22,
+    "key": "chang",
+    "entry": "[22] X. Chang, M. Zeng, K. Liu, L. Fu. Phase engineering of high-entropy alloys. Advanced Materials 32 (2020) 1907226.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [51]",
+    "online_verified": false
+  },
+  {
+    "number": 23,
+    "key": "yao",
+    "entry": "[23] Y. Yao, Z. Huang, P. Xie, et al. Carbothermal shock synthesis of high-entropy-alloy nanoparticles. Science 359 (2018) 1489–1494.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [64]",
+    "online_verified": false
+  },
+  {
+    "number": 24,
+    "key": "yang_alloy",
+    "entry": "[24] Y. Yang, S. Ul Hassan, M. Zai, et al. Compositional design of C-coated multi-elemental alloy nanoparticles for superior microwave absorption. Journal of Alloys and Compounds 988 (2024) 174316.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [45]",
+    "online_verified": false
+  },
+  {
+    "number": 25,
+    "key": "kuang",
+    "entry": "[25] D. Kuang, L. Hou, S. Wang, et al. Large-scale synthesis and outstanding microwave absorption properties of carbon nanotubes coated by extremely small FeCo-C core-shell nanoparticles. Carbon 153 (2019) 52–61.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [42]",
+    "online_verified": false
+  },
+  {
+    "number": 26,
+    "key": "liu_shell",
+    "entry": "[26] X. Liu, Z. Ou, D. Geng, et al. Influence of a graphite shell on the thermal and electromagnetic characteristics of FeNi nanoparticles. Carbon 48 (2010) 891–897.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [37]",
+    "online_verified": false
+  },
+  {
+    "number": 27,
+    "key": "wang_confinement",
+    "entry": "[27] X. Wang, B. Wang, H. Zhu, et al. A Nanoconfinement Strategy to Construct Co@CNTs for Lightweight and Ultra-Broadband Microwave Absorption. Small 20 (2024) 2405351.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [8]",
+    "online_verified": false
+  },
+  {
+    "number": 28,
+    "key": "russ",
+    "entry": "[28] B. Russ, A. Glaudell, J. J. Urban, M. L. Chabinyc, R. A. Segalman. Organic thermoelectric materials for energy harvesting and temperature control. Nature Reviews Materials 1 (2016) 16050.",
+    "type": "journal article",
+    "bibliographic_basis": "Established bibliographic record; not online verified",
+    "online_verified": false
+  },
+  {
+    "number": 29,
+    "key": "kim",
+    "entry": "[29] G.-H. Kim, L. Shao, K. Zhang, K. P. Pipe. Engineered doping of organic semiconductors for enhanced thermoelectric efficiency. Nature Materials 12 (2013) 719–723.",
+    "type": "journal article",
+    "bibliographic_basis": "Established bibliographic record; not online verified",
+    "online_verified": false
+  },
+  {
+    "number": 30,
+    "key": "snyder",
+    "entry": "[30] G. J. Snyder, E. S. Toberer. Complex thermoelectric materials. Nature Materials 7 (2008) 105–114.",
+    "type": "journal article",
+    "bibliographic_basis": "Established bibliographic record; not online verified",
+    "online_verified": false
+  },
+  {
+    "number": 31,
+    "key": "faleev",
+    "entry": "[31] S. V. Faleev, F. Léonard. Theory of enhancement of thermoelectric properties of materials with nanoinclusions. Physical Review B 77 (2008) 214304.",
+    "type": "journal article",
+    "bibliographic_basis": "Established bibliographic record; not online verified",
+    "online_verified": false
+  },
+  {
+    "number": 32,
+    "key": "mahan",
+    "entry": "[32] G. D. Mahan, J. O. Sofo. The best thermoelectric. Proceedings of the National Academy of Sciences of the United States of America 93 (1996) 7436–7439.",
+    "type": "journal article",
+    "bibliographic_basis": "Established bibliographic record; not online verified",
+    "online_verified": false
+  },
+  {
+    "number": 33,
+    "key": "lee",
+    "entry": "[33] H. Lee, S. M. Dellatore, W. M. Miller, P. B. Messersmith. Mussel-inspired surface chemistry for multifunctional coatings. Science 318 (2007) 426–430.",
+    "type": "journal article",
+    "bibliographic_basis": "Established bibliographic record; not online verified",
+    "online_verified": false
+  },
+  {
+    "number": 34,
+    "key": "liu_pda",
+    "entry": "[34] Y. Liu, K. Ai, L. Lu. Polydopamine and its derivative materials: synthesis and promising applications in energy, environmental, and biomedical fields. Chemical Reviews 114 (2014) 5057–5115.",
+    "type": "journal article",
+    "bibliographic_basis": "Established bibliographic record; not online verified",
+    "online_verified": false
+  },
+  {
+    "number": 35,
+    "key": "ferrari",
+    "entry": "[35] A. C. Ferrari, J. Robertson. Interpretation of Raman spectra of disordered and amorphous carbon. Physical Review B 61 (2000) 14095–14107.",
+    "type": "journal article",
+    "bibliographic_basis": "Established bibliographic record; not online verified",
+    "online_verified": false
+  },
+  {
+    "number": 36,
+    "key": "dresselhaus",
+    "entry": "[36] M. S. Dresselhaus, G. Dresselhaus, R. Saito, A. Jorio. Raman spectroscopy of carbon nanotubes. Physics Reports 409 (2005) 47–99.",
+    "type": "journal article",
+    "bibliographic_basis": "Established bibliographic record; not online verified",
+    "online_verified": false
+  },
+  {
+    "number": 37,
+    "key": "biesinger_metals",
+    "entry": "[37] M. C. Biesinger, B. P. Payne, A. P. Grosvenor, et al. Resolving surface chemical states in XPS analysis of first row transition metals, oxides and hydroxides: Cr, Mn, Fe, Co and Ni. Applied Surface Science 257 (2011) 2717–2730.",
+    "type": "journal article",
+    "bibliographic_basis": "Established bibliographic record; not online verified",
+    "online_verified": false
+  },
+  {
+    "number": 38,
+    "key": "hassan",
+    "entry": "[38] Sibt ul Hassan. Facile Synthesis and Microwave Absorption Properties of Medium- and High-Entropy Alloy/Carbon Composite Nanostructures. Doctoral thesis, Central South University (2025), Chapters 2 and 6.",
+    "type": "thesis",
+    "bibliographic_basis": "User-supplied doctoral thesis; reference XPS source",
+    "online_verified": false
+  },
+  {
+    "number": 39,
+    "key": "biesinger_cu",
+    "entry": "[39] M. C. Biesinger. Advanced analysis of copper X-ray photoelectron spectra. Surface and Interface Analysis 49 (2017) 1325–1334.",
+    "type": "journal article",
+    "bibliographic_basis": "Established bibliographic record; not online verified",
+    "online_verified": false
+  },
+  {
+    "number": 40,
+    "key": "chen_foam",
+    "entry": "[40] H. Chen, Z. Huang, Y. Huang, et al. Synergistically assembled MWCNT/graphene foam with highly efficient microwave absorption in both C and X bands. Carbon 124 (2017) 506–514.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [195]",
+    "online_verified": false
+  },
+  {
+    "number": 41,
+    "key": "du_shell",
+    "entry": "[41] Y. Du, W. Liu, R. Qiang, et al. Shell thickness-dependent microwave absorption of core–shell Fe3O4@C composites. ACS Applied Materials & Interfaces 6 (2014) 12997–13006.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [114]",
+    "online_verified": false
+  },
+  {
+    "number": 42,
+    "key": "cheng_band",
+    "entry": "[42] J. Cheng, H. Zhang, M. Ning, et al. Emerging materials and designs for low- and multi-band electromagnetic wave absorbers: the search for dielectric and magnetic synergy? Advanced Functional Materials 32 (2022) 2200123.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [28]",
+    "online_verified": false
+  },
+  {
+    "number": 43,
+    "key": "cole",
+    "entry": "[43] K. S. Cole, R. H. Cole. Dispersion and absorption in dielectrics I. Alternating current characteristics. The Journal of Chemical Physics 9 (1941) 341–351.",
+    "type": "journal article",
+    "bibliographic_basis": "Established bibliographic record; not online verified",
+    "online_verified": false
+  },
+  {
+    "number": 44,
+    "key": "xiong",
+    "entry": "[44] X. Xiong, H. Zhang, H. Lv, et al. Recent progress in carbon-based materials and loss mechanisms for electromagnetic wave absorption. Carbon 219 (2024) 118834.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [29]",
+    "online_verified": false
+  },
+  {
+    "number": 45,
+    "key": "han",
+    "entry": "[45] X. Han, L. Qiao, P. Peng, et al. Nickel nanoparticles encapsulated in N-doped carbon nanotubes for microwave absorption. ACS Applied Nano Materials 7 (2024) 2593–2604.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [200]",
+    "online_verified": false
+  },
+  {
+    "number": 46,
+    "key": "wang_architecture",
+    "entry": "[46] X. X. Wang, W. Q. Cao, M. S. Cao, J. Yuan. Assembling nano–microarchitecture for electromagnetic absorbers and smart devices. Advanced Materials 32 (2020) 2002112.",
+    "type": "journal article",
+    "bibliographic_basis": "Supplied doctoral thesis reference [13]",
+    "online_verified": false
+  }
+]
